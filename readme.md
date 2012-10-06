@@ -3,13 +3,13 @@ WordPress on SMS v1.0
 
 #### Publish blog posts on WordPress blogs through SMS
 ##### Developed for 55444.in Platform
-##### App registered at http://55444.in/apps/wordpress on 6th October 2012
-
 
 *Author: Arjun Abhynav*  
 *Contact: arjun.abhynav@gmail.com*  
 *Website: http://arjunabhynav.com*  
 *Twitter: @arjunabhynav*  
+
+##### App registered at http://55444.in/apps/wordpress on 6th October 2012
 
 This application has been developed to enable users to publish on WordPress.com through SMS, and uses XML Remote Procedure Calls. XML-RPC.
 
