@@ -26,3 +26,5 @@ Send #wordpress.set UserName,PassWord to 55444 to set credentials.
 Send #wordpress PostTitle > BlogPostContent to 55444 to start publishing posts.  
 
 To use this application on a self-hosted WordPress blog, in the admin dashboard, go to Settings > Writing and enable XML-RPC.
+
+An experimental blog with posts published through this application is hosted on http://55444in.wordpress.com
